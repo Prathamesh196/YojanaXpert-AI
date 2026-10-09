@@ -1,4 +1,4 @@
-# YojanaXpert AI
+# YojanaXpert AI : Smart Government Scheme Recommendation System
 
 YojanaXpert AI is an intelligent government scheme recommendation platform that helps citizens discover welfare schemes they are eligible for. The system analyzes user information such as age, income, occupation, gender, location, and social category to provide personalized scheme recommendations.
 
