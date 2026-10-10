@@ -43,7 +43,7 @@ YojanaXpert AI aims to simplify scheme discovery by providing a centralized and 
 
 The home page introduces the platform, highlights its primary capabilities, and provides navigation to the available services.
 
-![YojanaXpert AI Home Page](screenshots/home-page.png)
+![YojanaXpert AI Home Page](SreenShorts/home-page.png)
 
 ### 2. User Profile Page
 
