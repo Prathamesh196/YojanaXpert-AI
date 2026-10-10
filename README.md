@@ -49,31 +49,34 @@ The home page introduces the platform, highlights its primary capabilities, and 
 
 The profile page collects personal and demographic information, including age, income, occupation, gender, location, and social category, to support personalized eligibility assessment.
 
-![User Profile Page](screenshots/profile-page.png)
+![User Profile Page](ScreenShorts/profile-page.png)
 
 ### 3. Services Page
 
 The services page provides access to the Family Dashboard, Fraud Detection System, and What-If Analysis, allowing users to explore additional platform capabilities.
 
-![Services Page](screenshots/services-page.png)
+![Services Page](ScreenShorts/services-page.png)
+
+# Fraud Detection 
+![Services Page](ScreenShorts/services-page.png)
 
 ### 4. Recommended Schemes Page
 
 The recommended schemes page displays schemes matched to the user's profile and eligibility criteria, along with relevant benefits and application information.
 
-![Recommended Schemes Page](screenshots/schemes-page.png)
+![Recommended Schemes Page](ScreenShorts/schemes-page.png)
 
 ### 5. Scheme Catalog Page
 
 The scheme catalog provides a centralized collection of government schemes across multiple sectors, including education, healthcare, agriculture, employment, housing, and social welfare.
 
-![Scheme Catalog Page](screenshots/schemes-catalog.png)
+![Scheme Catalog Page](ScreenShorts/schemes-catalog.png)
 
 ### 6. Fraud Detection Page
 
 The fraud detection page helps users evaluate suspicious SMS messages, URLs, and phone numbers to identify potential scams and improve digital safety awareness.
 
-![Fraud Detection Page](screenshots/fraud-detection.png)
+![Fraud Detection Page](ScreenShorts/fraud-detection.png)
 
 ## Key Features
 
