@@ -60,10 +60,10 @@ The services page provides access to the Family Dashboard, Fraud Detection Syste
 # Fraud Detection 
 The fraud detection page helps users evaluate suspicious SMS messages, URLs, and phone numbers to identify potential scams and improve digital safety awareness.
 
-![Fraud Detectation Page](ScreenShorts/service-2-page.png)
+![Fraud Detectation Page](ScreenShorts/service-2.png)
 
 # What-IF Simulation
-![Services Page](ScreenShorts/service-3-page.png)
+![Services Page](ScreenShorts/service-3.png)
 
 ### 4. Recommended Schemes Page
 
