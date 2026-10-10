@@ -69,7 +69,7 @@ The fraud detection page helps users evaluate suspicious SMS messages, URLs, and
 
 The recommended schemes page displays schemes matched to the user's profile and eligibility criteria, along with relevant benefits and application information.
 
-![Recommended Schemes Page](ScreenShorts/schemes-page.png)
+![Recommended Schemes Page](ScreenShorts/recommend.png)
 
 ### 5. Scheme Catalog Page
 
