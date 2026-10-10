@@ -55,10 +55,15 @@ The profile page collects personal and demographic information, including age, i
 
 The services page provides access to the Family Dashboard, Fraud Detection System, and What-If Analysis, allowing users to explore additional platform capabilities.
 
-![Services Page](ScreenShorts/services-page.png)
+![Services Page](ScreenShorts/service-1.png)
 
 # Fraud Detection 
-![Services Page](ScreenShorts/services-page.png)
+The fraud detection page helps users evaluate suspicious SMS messages, URLs, and phone numbers to identify potential scams and improve digital safety awareness.
+
+![Fraud Detectation Page](ScreenShorts/service-2-page.png)
+
+# What-IF Simulation
+![Services Page](ScreenShorts/service-3-page.png)
 
 ### 4. Recommended Schemes Page
 
@@ -70,13 +75,12 @@ The recommended schemes page displays schemes matched to the user's profile and 
 
 The scheme catalog provides a centralized collection of government schemes across multiple sectors, including education, healthcare, agriculture, employment, housing, and social welfare.
 
-![Scheme Catalog Page](ScreenShorts/schemes-catalog.png)
+![Scheme Catalog Page](ScreenShorts/catlog-page.png)
 
-### 6. Fraud Detection Page
+### 6. About Us Page
+YojanaXpert AI aims to make government welfare schemes more accessible by helping citizens discover benefits they may be eligible for. We combine AI-powered recommendations, intelligent eligibility analysis, voice assistance, and fraud detection to simplify scheme discovery and empower people to make informed decisions.
 
-The fraud detection page helps users evaluate suspicious SMS messages, URLs, and phone numbers to identify potential scams and improve digital safety awareness.
-
-![Fraud Detection Page](ScreenShorts/fraud-detection.png)
+![Fraud Detection Page](ScreenShorts/about.png)
 
 ## Key Features
 
